@@ -1,0 +1,34 @@
+{
+  "card1":[{
+  "image":"profile.jpg",
+  "name":"sreelatha",
+  "occ":"qiscet",
+  "profile": "profile"
+},
+{
+  "image":"profile.jpg",
+  "name":"sreelatha",
+  "occ":"qisit",
+  "profile": "profile"
+}],
+"personalDetails":{
+  "myname":"sreelatha",
+  "designation":"qiscet",
+  "fname":"D/O veera",
+  "email":"srilathanaidu7@gmail.com",
+  "phoneno":"9876543210",
+  "address":"pamur"
+},
+
+"careerobject":"To secure a challenging position in a reputable organizationto expand my learning,knowledge and skills"
+},
+{
+"educational qualification":"Graduation"
+"qis college of engineering and technology,ongole,afflicated to jntu kakinada,2016-20 batch,secured 81% of marks"
+},
+{
+  "Intermediate":"sri aditya junior college,ongole,secured 89% of marks."
+},
+  "SSC":{
+  "Ssc":"aditya high school secured 75% of marks."
+}],
